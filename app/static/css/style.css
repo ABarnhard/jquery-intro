@@ -9,3 +9,25 @@
   background-color: grey;
   font-size: 5px
 }
+
+.box {
+  display: inline-block;
+  text-align: center;
+  padding: auto;
+  margin: 4px;
+  border: 10px;
+  border-radius: 10px;
+  height: 30px;
+  width: 30px;
+  border: 4px solid green;
+}
+
+.even {
+  background-color: blue;
+
+}
+
+.odd {
+  background-color: yellow;
+
+}
